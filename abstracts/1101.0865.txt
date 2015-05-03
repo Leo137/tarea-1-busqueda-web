@@ -1,0 +1,1 @@
+Exact plane - symmetric non-stationary solution of the self-consistent  equations of Einstein - Maxwell for a magnetoactive plasma;;; Yu.G. Ignatyev,,  <a href="/find/gr-qc/1/au:+Chepkunova_E/0/1/0/all/0/1">E.G. Chepkunova</a> ;;; An exact plane-symmetric non-stationary solution to the Einstein-Maxwell equations for a magnetoactive plasma is obtained and studied.  

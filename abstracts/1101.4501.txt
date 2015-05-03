@@ -1,0 +1,1 @@
+Symplectic rigidity and weak commutativity;;; S. Vazzoler,,  <a href="/find/math/1/au:+Cardin_F/0/1/0/all/0/1">F. Cardin</a> ;;; An alternative proof of Eliashberg-Gromov's C^0-rigidity theorem is presented and a new notion of weak Lie brackets for Hamiltonian vector fields is proposed and compared.  

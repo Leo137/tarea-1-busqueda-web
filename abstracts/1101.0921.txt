@@ -1,0 +1,1 @@
+A note on the Hodge conjecture;;; Jorma Jormakka, ;;; An approach that may lead to a counterexample to the Hodge conjecture.  

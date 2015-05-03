@@ -1,0 +1,1 @@
+Avoiding 3/2-powers over the natural numbers;;; Eric Rowland,,  <a href="/find/math/1/au:+Shallit_J/0/1/0/all/0/1">Jeffrey Shallit</a> ;;; In this paper we answer the following question: what is the lexicographically least sequence over the natural numbers that avoids 3/2-powers?  

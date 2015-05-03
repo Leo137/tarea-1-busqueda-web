@@ -1,0 +1,1 @@
+Symmetry in variational principles and applications;;; Marco Squassina, ;;; We formulate symmetric versions of classical variational principles. Within the framework of non-smooth critical point theory, we detect Palais-Smale sequences with additional second order and symmetry information. We discuss applications to PDEs, fixed point theory and geometric analysis.  

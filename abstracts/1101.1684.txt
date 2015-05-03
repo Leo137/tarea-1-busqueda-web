@@ -1,0 +1,1 @@
+Classification of embedded projective manifolds swept out by rational  homogeneous varieties of codimension one;;; Kiwamu Watanabe, ;;; We give a classification of embedded smooth projective varieties swept out by rational homogeneous varieties whose Picard number and codimension are one.  

@@ -1,0 +1,1 @@
+On the Furstenberg measure and density of states for the  Anderson-Bernoulli model at small disorder;;; Jean Bourgain, ;;; We establish new results on the dimension of density of states for the Anderson-Bernoulli model at small disorder  

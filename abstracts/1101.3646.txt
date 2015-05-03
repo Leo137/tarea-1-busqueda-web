@@ -1,0 +1,1 @@
+Large sieve inequalities for quartic characters;;; Peng Gao,,  <a href="/find/math/1/au:+Zhao_L/0/1/0/all/0/1">Liangyi Zhao</a> ;;; In this paper, we prove a large sieve inequality for quartic Dirichlet characters. The result is analogous to large sieve inequalities for the quadratic and cubic Dirichlet characters.  

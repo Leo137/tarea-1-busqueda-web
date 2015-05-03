@@ -1,0 +1,1 @@
+Higher-order Hahn&#x27;s quantum variational calculus;;; Artur M. C. Brito da Cruz,,  <a href="/find/math/1/au:+Martins_N/0/1/0/all/0/1">Natalia Martins</a>,  <a href="/find/math/1/au:+Torres_D/0/1/0/all/0/1">Delfim F. M. Torres</a> ;;; We prove a necessary optimality condition of Euler-Lagrange type for quantum variational problems involving Hahn's derivatives of higher-order.  

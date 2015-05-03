@@ -1,0 +1,1 @@
+Arveson&#x27;s criterion for unitary similarity;;; Douglas Farenick, ;;; This paper is an exposition of W.B. Arveson's complete invariant for the unitary similarity of complex, irreducible matrices.  

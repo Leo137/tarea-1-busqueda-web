@@ -1,0 +1,1 @@
+Universal coefficient theorems for C*-algebras over finite topological  spaces;;; Rasmus Bentmann,,  <a href="/find/math/1/au:+Kohler_M/0/1/0/all/0/1">Manuel K&#xf6;hler</a> ;;; We determine the class of finite T_0-spaces allowing for a universal coefficient theorem computing equivariant KK-theory by filtrated K-theory.  

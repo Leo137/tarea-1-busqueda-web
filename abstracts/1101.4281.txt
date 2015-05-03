@@ -1,0 +1,1 @@
+On Why-Questions in Physics;;; Gergely Sz&#xe9;kely, ;;; The aim of this paper is to introduce a mathematical logic based approach investigating why-type questions in physics.  

@@ -1,0 +1,1 @@
+A sequence of zero modes of Weyl-Dirac operators and an associated  sequence of solvable polynomials;;; Y. Saito,,  <a href="/find/math/1/au:+Umeda_T/0/1/0/all/0/1">T. Umeda</a> ;;; It is shown that a series of solvable polynomials is attached to the series of zero modes constructed by Adam, Muratori and Nash \cite{AdamMuratoriNash1  

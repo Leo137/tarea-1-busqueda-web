@@ -1,0 +1,1 @@
+A Nonconventional Invariance Principle for Random Fields;;; Yuri Kifer, ;;; We prove a nonconventional invariance principle (functional central limit theorem) for random fields.  

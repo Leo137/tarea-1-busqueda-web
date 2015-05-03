@@ -1,0 +1,1 @@
+On stationary solutions to reaction-diffusion equations with nonlocal  term;;; Robert Sta&#x144;czy, ;;; In this paper we obtain the existence of a radial solution for some elliptic nonlocal problem with constraints. The problem arises from some reaction-diffusion equation modelling among others system of self-gravitating particles when one looks for its stationary solutions.  

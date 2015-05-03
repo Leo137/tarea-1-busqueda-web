@@ -1,0 +1,1 @@
+Stern&#x27;s type congruences for generalized Bernoulli numbers;;; Hao Pan,,  <a href="/find/math/1/au:+Zhang_Y/0/1/0/all/0/1">Yong Zhang</a> ;;; We prove several Stern's type congruences for generalized bernoulli numbers.  

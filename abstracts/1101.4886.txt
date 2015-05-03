@@ -1,0 +1,1 @@
+Tutorial on Scale and Conformal Symmetries in Diverse Dimensions;;; R. Jackiw,,  <a href="/find/math-ph,math/1/au:+Pi_S/0/1/0/all/0/1">S.-Y. Pi</a> ;;; We review the relation between scale and conformal symmetries in various models and dimensions. We present a dimensional reduction from relativistic to non-relativistic conformal dynamics.  

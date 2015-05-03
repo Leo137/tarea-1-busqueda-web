@@ -1,0 +1,1 @@
+On the Bogomolov-Miyaoka-Yau inequality for Deligne-Mumford surfaces;;; Jiun-Cheng Chen,,  <a href="/find/math/1/au:+Tseng_H/0/1/0/all/0/1">Hsian-Hua Tseng</a> ;;; We discuss a generalization of the Bogomolov-Miyaoka-Yau inequality to Deligne-Mumford surfaces of general type.  

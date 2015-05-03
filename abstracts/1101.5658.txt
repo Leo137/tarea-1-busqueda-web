@@ -1,0 +1,1 @@
+A combinatorial algorithm for visualizing representatives with minimal  self-intersection;;; Chris Arettines, ;;; Given an orientable surface with boundary and a free homotopy class, we present a purely combinatorial algorithm which produces a representative of that homotopy class with minimal self intersection.  

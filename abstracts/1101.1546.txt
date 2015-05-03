@@ -1,0 +1,1 @@
+Karatsuba Solitaire;;; Therese A. Hart,,  <a href="/find/math/1/au:+Khan_G/0/1/0/all/0/1">Gabriel Khan</a>,  <a href="/find/math/1/au:+Khan_M/0/1/0/all/0/1">Mizan R. Khan</a> ;;; We present a solution to a problem that circulated in the early 1980's and whose solution first appeared in Kvant in 1981. The problem is commonly known as Bulgarian solitaire.  

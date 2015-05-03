@@ -1,0 +1,1 @@
+Vector-valued modular forms with an unnatural boundary;;; Marvin Knopp,,  <a href="/find/math/1/au:+Mason_G/0/1/0/all/0/1">Geoffrey Mason</a> ;;; We characterize all logarithmic, holomorphic vector-valued modular forms which can be analytically continued to a region strictly larger than the upper half-plane.  

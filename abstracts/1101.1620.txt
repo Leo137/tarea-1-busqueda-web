@@ -1,0 +1,1 @@
+Addendum to &quot;Spherical structures on torus knots and links&quot;;;; Alexander Kolpakov, ;;; The present paper is an addendum to "Spherical structures on torus knots and links", <a href="/abs/1008.0312">arXiv:1008.0312</a>, and concerns more general case of torus knot and link cone-manifolds.  

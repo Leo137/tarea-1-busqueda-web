@@ -1,0 +1,1 @@
+How to use the Fast Fourier Transform in Large Finite Fields;;; Petur Birgir Petersen, ;;; The article contents suggestions on how to perform the Fast Fourier Transform over Large Finite Fields. The technique is to use the fact that the multiplicative groups of specific prime fields are surprisingly composite.  

@@ -1,0 +1,1 @@
+Encyclopedia of types of algebras 2010;;; Guillaume W. Zinbiel, ;;; This is a cornucopia of types of algebras with some of their properties from the operadic point of view.  

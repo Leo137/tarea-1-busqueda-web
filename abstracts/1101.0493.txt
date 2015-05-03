@@ -1,0 +1,1 @@
+Monodromy of A-hypergeometric functions;;; Frits Beukers, ;;; Using Mellin-Barnes integrals we give a method to compute a relevant subgroup of the monodromy group of an A-hypergeometric system of differential equations. Presumably this group is the full monodromy group of the system  

@@ -1,0 +1,1 @@
+On the minimal model theory for dlt pairs of numerical log Kodaira  dimension zero;;; Yoshinori Gongyo, ;;; We prove the existence of good log minimal models for dlt pairs of numerical log Kodaira dimension 0.  

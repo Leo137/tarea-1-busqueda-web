@@ -1,0 +1,1 @@
+Centralizer of Braids and Fibonacci Numbers;;; Usman Ali,,  <a href="/find/math/1/au:+Haider_A/0/1/0/all/0/1">Azeem Haider</a> ;;; The paper encloses computation of simple centralizer of simple braids and their connection with Fibonacci numbers. Planarity of some commuting graphs is also discussed in the last section.  

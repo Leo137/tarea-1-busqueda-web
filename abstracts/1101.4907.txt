@@ -1,0 +1,1 @@
+A finiteness condition on local cohomology in positive characteristic;;; Florian Enescu, ;;; In this paper we present a condition on a local Cohen-Macaulay F-injective ring of positive characteristic $p &gt; 2$ which implies that its top local cohomology module with support in the maximal ideal has finitely many Frobenius compatible submodules.  

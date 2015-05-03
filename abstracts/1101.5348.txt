@@ -1,0 +1,1 @@
+An improved sum-product estimate for general finite fields;;; Oliver Roche-Newton, ;;; This paper improves on a sum-product estimate obtained by Katz and Shen for subsets of a finite field whose order is not prime.  

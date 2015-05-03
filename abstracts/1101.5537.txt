@@ -1,0 +1,1 @@
+Extending triangulations of the 2-sphere to the 3-disk preserving a  4-coloring;;; Rui Pedro Carpentier, ;;; In this paper we prove that any triangulation of a 2-dimensional sphere with a strict 4-coloring on its vertices can seen as the boundary of a triangulation of a 3-dimensional disk with the same vertices and preserving the 4-coloring.  

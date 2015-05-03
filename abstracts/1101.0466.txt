@@ -1,0 +1,1 @@
+The Farrell-Hsiang method revisited;;; Arthur Bartels,,  <a href="/find/math/1/au:+Lueck_W/0/1/0/all/0/1">Wolfgang Lueck</a> ;;; We present a sufficient condition for groups to satisfy the Farrell-Jones Conjecture in algebraic K-theory and L-theory. The condition is formulated in terms of finite quotients of the group in question and is motivated by work of Farrell-Hsiang.  

@@ -1,0 +1,1 @@
+Regularity for degenerate two-phase free boundary elliptic problems;;; Olivaine S. de Queiroz,,  <a href="/find/math/1/au:+Teixeira_E/0/1/0/all/0/1">Eduardo V. Teixeira</a> ;;; This paper deals with regularity theory for two-phase free boundary variational problems ruled by degenerate elliptic operators.  

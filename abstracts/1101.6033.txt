@@ -1,0 +1,1 @@
+Some More Functions That Are Not APN Infinitely Often. The Case of  Kasami exponents;;; Fran&#xe7;ois Rodier, (IML) ;;; We prove a necessary condition for some polynomials of Kasami degree to be APN over F_{q^n} for large n.  

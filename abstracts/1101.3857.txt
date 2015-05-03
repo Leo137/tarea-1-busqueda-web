@@ -1,0 +1,1 @@
+Local return rates in Sturmian subshifts;;; Michal Kupsa, ;;; The local return rates have been introduced by Hirata, Saussol and Vaienti \cite{HSV99} as a tool for the study of the asymptotic distribution of the return times to cylinders. We give formulas for these rates in Sturmian subshifts.  

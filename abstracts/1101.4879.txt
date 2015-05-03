@@ -1,0 +1,1 @@
+A Quillen theorem Bn for homotopy pullbacks;;; C. Barwick,,  <a href="/find/math/1/au:+Kan_D/0/1/0/all/0/1">D. M. Kan</a> ;;; We prove an extension of the Quillen Theorem Bn for homotopy fibres to a similar result for homotopy pullbacks and use this to obtain sufficient conditions on a pullback diagram of categories to guarantee that it be a homotopy pullback.  

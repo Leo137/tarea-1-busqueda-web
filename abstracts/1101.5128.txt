@@ -1,0 +1,1 @@
+A remark on the topological stability of symplectomorphisms;;; Mario Bessa,,  <a href="/find/math/1/au:+Rocha_J/0/1/0/all/0/1">Jorge Rocha</a> ;;; We prove that the C1 interior of the set of all topologically stable C1 symplectomorphisms is contained in the set of Anosov symplectomorphisms.  

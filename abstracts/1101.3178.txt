@@ -1,0 +1,1 @@
+Defining relation for semi-invariants of three by three matrix triples;;; M. Domokos,,  <a href="/find/math/1/au:+Drensky_V/0/1/0/all/0/1">V. Drensky</a> ;;; The single defining relation of the algebra of $SL_3\times SL_3$-invariants of triples of $3\times 3$ matrices is explicitly computed. Connections to some other prominent algebras of invariants are pointed out.  

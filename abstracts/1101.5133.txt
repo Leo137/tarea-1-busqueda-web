@@ -1,0 +1,1 @@
+Periodic solutions of Abreu&#x27;s equation;;; Renjie Feng,,  <a href="/find/math/1/au:+Szekelyhidi_G/0/1/0/all/0/1">G&#xe1;bor Sz&#xe9;kelyhidi</a> ;;; We solve Abreu's equation with periodic right hand side, in any dimension. This can be interpreted as prescribing the scalar curvature of a torus invariant metric on an Abelian variety.  

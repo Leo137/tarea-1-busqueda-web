@@ -1,0 +1,1 @@
+A Groupoid Structure on a Vector Space;;; Vasile Poputa,,  <a href="/find/math/1/au:+Ivan_G/0/1/0/all/0/1">Gheorghe Ivan</a> ;;; In this paper we introduce the concept of generalized vector groupoid. Several properties of them are established.  

@@ -1,0 +1,1 @@
+Errata list for &quot;Error Control Coding&quot; by Lin and Costello;;; Erik Agrell, ;;; This documents lists some errors found in the second edition of Error Control Coding by Shu Lin and Daniel J. Costello.  

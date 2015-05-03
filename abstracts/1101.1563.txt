@@ -1,0 +1,1 @@
+Gr&#xf6;bner-Shirshov bases for categories;;; L. A. Bokut,,  <a href="/find/math/1/au:+Chen_Y/0/1/0/all/0/1">Yuqun Chen</a>,  <a href="/find/math/1/au:+Li_Y/0/1/0/all/0/1">Yu Li</a> ;;; In this paper we establish Composition-Diamond lemma for small categories. We give Gr\"obner-Shirshov bases for simplicial category and cyclic category.  

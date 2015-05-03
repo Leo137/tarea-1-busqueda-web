@@ -1,0 +1,1 @@
+A Harnack inequality for fractional Laplace equations with lower order  terms;;; Jinggang Tan,,  <a href="/find/math/1/au:+Xiong_J/0/1/0/all/0/1">Jingang Xiong</a> ;;; We establish a Harnack inequality of fractional Laplace equations without imposing sign condition on the coefficient of zero order term via the Moser's iteration and John-Nirenberg inequality.  

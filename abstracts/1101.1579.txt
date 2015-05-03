@@ -1,0 +1,1 @@
+A note on super Catalan numbers;;; Evangelos Georgiadis,,  <a href="/find/math/1/au:+Munemasa_A/0/1/0/all/0/1">Akihiro Munemasa</a>,  <a href="/find/math/1/au:+Tanaka_H/0/1/0/all/0/1">Hajime Tanaka</a> ;;; We show that the super Catalan numbers are special values of the Krawtchouk polynomials by deriving an expression for the super Catalan numbers in terms of a signed set.  

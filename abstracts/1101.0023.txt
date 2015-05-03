@@ -1,0 +1,1 @@
+The Multiplication on BP;;; Maria Basterra,,  <a href="/find/math/1/au:+Mandell_M/0/1/0/all/0/1">Michael A. Mandell</a> ;;; BP is an E_4 ring spectrum. The E_4 structure is unique up to automorphism.  

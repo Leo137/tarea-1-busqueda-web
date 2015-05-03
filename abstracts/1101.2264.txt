@@ -1,0 +1,1 @@
+Two Applications of Desargues&#x27; Theorem;;; Florentin Smarandache,,  <a href="/find/math/1/au:+Patrascu_I/0/1/0/all/0/1">Ion Patrascu</a> ;;; In this article we use the Desargues' theorem and its reciprocal to solve two problems.  

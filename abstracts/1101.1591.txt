@@ -1,0 +1,1 @@
+Gauge semi-simple extension of the Poincar&#xe9; group;;; Dmitrij V. Soroka,,  <a href="/find/hep-th/1/au:+Soroka_V/0/1/0/all/0/1">Vyacheslav A. Soroka</a> ;;; Based on the gauge semi-simple tensor extension of the Poincar\'e group another alternative approach to the cosmological term problem is proposed.  

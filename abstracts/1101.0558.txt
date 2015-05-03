@@ -1,0 +1,1 @@
+On characterization of integrable sesquilinear forms;;; Anatolij N. Sherstnev,,  <a href="/find/math/1/au:+Tikhonov_O/0/1/0/all/0/1">Oleg E. Tikhonov</a> ;;; We give necessary and sufficient condition for a sesquilinear form to be integrable with respect to a faithful normal state on a von Neumann algebra.  

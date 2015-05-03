@@ -1,0 +1,1 @@
+Change of angle in tent spaces;;; Pascal Auscher, (LM-Orsay) ;;; We prove sharp bounds for the equivalence of norms in tent spaces with respect to changes of angles. Some applications are given.  

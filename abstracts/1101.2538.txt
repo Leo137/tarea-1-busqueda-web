@@ -1,0 +1,1 @@
+Mod 2 Morava K-theory for Frobenius complements of exponent dividing 2^n  9;;; Malkhaz Bakuradze, ;;; We determine the cohomology rings K(s)*(BG) at 2 for all finite Frobenius complements G of exponent dividing 2n 9.  

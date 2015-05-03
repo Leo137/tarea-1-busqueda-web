@@ -1,0 +1,1 @@
+On the tensor Permutation Matrices;;; Christian Rakotonirina, ;;; A property that tensor permutation matrices permutate tensor product of rectangle matrices is shown. Some examples, in the particular case of tensor commutation matrices, for studying some linear matricial equations are given.  

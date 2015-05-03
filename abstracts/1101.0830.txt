@@ -1,0 +1,1 @@
+Homogenization of nonconvex integrals with convex growth;;; Omar Anza Hafsa,,  <a href="/find/math/1/au:+Mandallena_J/0/1/0/all/0/1">Jean-Philippe Mandallena</a> ;;; We study homogenization by Gamma-convergence of periodic multiple integrals of the calculus of variations when the integrand can take infinite values outside of a convex set of matrices.  

@@ -1,0 +1,1 @@
+A generic dimensional property of the invariant measures for circle  diffeomorphisms;;; Shigenori Matsumoto, ;;; Given any Liouville number $\alpha$, it is shown that the nullity of the Hausdorff dimension of the invariant measure is generic in the space of the orientation preserving $C^\infty$ diffeomorphisms of the circle with rotation number $\alpha$.  

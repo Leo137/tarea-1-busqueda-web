@@ -1,0 +1,1 @@
+Wigner transform and pseudodifferential operators on symmetric spaces of  non-compact type;;; S. Twareque Ali,,  <a href="/find/math-ph,math/1/au:+Englis_M/0/1/0/all/0/1">Miroslav Englis</a> ;;; We obtain a general expression for a Wigner transform (Wigner function) on symmetric spaces of non-compact type and study the Weyl calculus of pseudodifferential operators on them.  

@@ -1,0 +1,1 @@
+Upper bounding for packing dimension in vectorial multifractal formalism;;; Ben Youssef Leila, ;;; We establish an other upper bounding for packing dimension in the framework of the vectorial multifractal formalism that is in some cases finer than that established by J. Peyriere.  

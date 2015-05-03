@@ -1,0 +1,1 @@
+An Asymptotic Formula For Counting Subset Sums Over Subgroups Of Finite  Fields;;; Guizhen Zhu,,  <a href="/find/math/1/au:+Wan_D/0/1/0/all/0/1">Daqing Wan</a> ;;; Let F_q be the finite field of q elements. Let H be a multiplicative subgroup of F_q^*. For a positive integer k and element b\in F_q, we give a sharp estimate for the number of k-element subsets of H which sum to b.  

@@ -1,0 +1,1 @@
+On a characterization of finite Blaschke products;;; Emmanuel Fricain, (ICJ),  <a href="/find/math/1/au:+Mashreghi_J/0/1/0/all/0/1">Javad Mashreghi</a> ;;; We study the convergence of a sequence of finite Blaschke products of a fix order toward a rotation. This would enable us to get a better picture of a characterization theorem for finite Blaschke products.  

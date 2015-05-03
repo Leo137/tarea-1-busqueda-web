@@ -1,0 +1,1 @@
+The number of arrows in the quiver of tilting modules over a path  algebra of type $A$ and $D$;;; Ryoichi Kase, ;;; Happel and Unger defined a partial order on the set of basic tilting modules. The tilting quiver is the Hasse diagram of the poset of basic tilting modules. We determine the number of arrows in the tilting quiver over a path algebra of type $A$ or $D$.  

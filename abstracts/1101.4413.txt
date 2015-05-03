@@ -1,0 +1,1 @@
+An estimate for the average spectral measure of random band matrices;;; Sasha Sodin, ;;; For a class of random band matrices of band width $W$, we prove regularity of the average spectral measure at scales $\epsilon \geq W^{-0.99}$, and find its asymptotics at these scales.  

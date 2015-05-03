@@ -1,0 +1,1 @@
+Note on the additive complements of primes;;; Li-Xia Dai,,  <a href="/find/math/1/au:+Pan_H/0/1/0/all/0/1">Hao Pan</a> ;;; We extend two results of Ruzsa and Vu on the additive complements of primes  

@@ -1,0 +1,1 @@
+Existence of Totally Reflexive Modules via Gorenstein Homomorphisms;;; Kristen A. Beck, ;;; We define, via Gorenstein homomorphisms, a class of local rings over which there exist non-trivial totally reflexive modules. We also provide a general construction of such rings, which indicates their abundance.  

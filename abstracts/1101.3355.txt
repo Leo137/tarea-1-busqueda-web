@@ -1,0 +1,1 @@
+CAT(0) spaces with polynomial divergence of geodesics;;; Natasa Macura, ;;; We construct a family of finite 2-complexes whose universal covers are CAT(0) and have polynomial divergence of desired degree. This answers a question of Gersten, namely whether such CAT(0) complexes exist.  

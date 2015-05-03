@@ -1,0 +1,1 @@
+Certifying Non-representability of Matroids Over Prime Fields;;; Jim Geelen,,  <a href="/find/math/1/au:+Whittle_G/0/1/0/all/0/1">Geoff Whittle</a> ;;; It is proved that, for a prime number $p$, showing that an $n$-element matroid is not representable over $GF(p)$ requires only $O(n^2)$ rank evaluations.  

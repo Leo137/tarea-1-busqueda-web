@@ -1,0 +1,1 @@
+Del Pezzo surfaces with many symmetries;;; Ivan Cheltsov,,  <a href="/find/math/1/au:+Wilson_A/0/1/0/all/0/1">Andrew Wilson</a> ;;; We classify smooth del Pezzo surfaces whose alpha-invariant of Tian is bigger than one.  

@@ -1,0 +1,1 @@
+Heat Kernel estimates for some elliptic operators with unbounded  diffusion coefficients;;; Giorgio Metafune,,  <a href="/find/math/1/au:+Spina_C/0/1/0/all/0/1">Chiara Spina</a> ;;; We prove heat kernel bounds for the operator (1 + |x|^{\alpha})\Delta in R^N, through Nash inequalities and weighted Hardy inequalities.  

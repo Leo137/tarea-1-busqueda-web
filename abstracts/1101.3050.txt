@@ -1,0 +1,1 @@
+An Euler characteristic proof that 4-prismatoids have width at most 4;;; Tamon Stephen,,  <a href="/find/math/1/au:+Thomas_H/0/1/0/all/0/1">Hugh Thomas</a> ;;; We show that there is no 4-dimensional analogue of the 5-prismatoids used in Santos' recent counterexample to the Hirsch conjecture.  

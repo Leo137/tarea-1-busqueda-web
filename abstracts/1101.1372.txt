@@ -1,0 +1,1 @@
+On finite simple groups of essential dimension 3;;; Arnaud Beauville, ;;; We show that the only finite simple groups of essential dimension 3 (over C) are A_6 and possibly PSL(2,11). This is an easy consequence of the classification by Prokhorov of rationally connected threefolds with an action of a simple group.  

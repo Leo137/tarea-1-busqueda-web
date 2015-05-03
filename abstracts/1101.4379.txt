@@ -1,0 +1,1 @@
+Vertex cover algebras of simplicial multicomplexes;;; Mircea Cimpoeas, ;;; We define vertex cover algebras for weighted simplicial multicomplexes and prove basics properties of them. Also, we describe these algebras for multicomplexes wich have only one maximal facet.  

@@ -1,0 +1,1 @@
+Weighted Radon transforms for which the Chang approximate inversion  formula is precise;;; Roman Novikov, (CMAP) ;;; We describe all weighted Radon transforms on the plane for which the Chang approximate inversion formula is precise. Some subsequent results, including the Cormack type inversion for these transforms, are also given.  

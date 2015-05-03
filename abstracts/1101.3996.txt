@@ -1,0 +1,1 @@
+Integration of Exact Courant Algebroids;;; David Li-Bland,,  <a href="/find/math/1/au:+Severa_P/0/1/0/all/0/1">Pavol Severa</a> ;;; In this paper, we describe an integration of exact Courant algebroids to symplectic 2-groupoids, and we show that the differentiation procedure from [26] inverts our integration.  

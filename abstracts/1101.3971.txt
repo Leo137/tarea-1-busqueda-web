@@ -1,0 +1,1 @@
+On class preserving automorphisms of groups of order 32;;; Deepak Gumber,,  <a href="/find/math/1/au:+Kalra_H/0/1/0/all/0/1">Hemant Kalra</a> ;;; We study class preserving automorphisms of groups of order thirty two and prove that only two groups have non-inner class preserving automorphisms.  

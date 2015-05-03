@@ -1,0 +1,1 @@
+Canonical Thurston Obstructions for Sub-Hyperbolic Semi-Rational  Branched Coverings;;; Tao Chen,,  <a href="/find/math/1/au:+Jiang_Y/0/1/0/all/0/1">Yunping Jiang</a> ;;; We prove that the canonical Thurston obstruction for a sub-hyperbolic semi-rational branched covering exists if the branched covering is not CLH-equivalent to a rational map.  

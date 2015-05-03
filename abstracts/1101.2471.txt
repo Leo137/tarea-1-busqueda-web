@@ -1,0 +1,1 @@
+Category of fuzzy hyper BCK-algebras;;; Joseph Dongho, ;;; In this paper we ?rst de?ne the category of fuzzy hyper BCK- algebras. After that we show that the category of hyper BCK-algebras has equalizers, coequalizers, products. It is a consequence that this category is complete and hence has pullbacks.  
