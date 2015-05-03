@@ -14,6 +14,9 @@ def get_sentencias(texto):
 	sent_tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 	return sent_tokenizer.tokenize(texto) 
 
+def process_sentencia(sentencia):
+	
+
 def test():
 	# Abstract analized list
 	abstract_list = list() 
@@ -27,7 +30,7 @@ def test():
 			f = open("abstracts/" + file,"r")
 			file_text = f.read()
 			
-			# Get text data
+			# Get text data (title, author, abstract)
 			text_data = split_text_data(file_text)
 
 			# If data is correct (well-formed-texts)
