@@ -1,5 +1,6 @@
 ﻿import os
 import nltk
+import script_2
 
 def create_inverted_index(collocations):
 
@@ -12,27 +13,22 @@ def create_inverted_index(collocations):
             f = open("abstracts/" + file,"r")
             file_text = f.read()
             
-            # Get tokens
-            tokens = (nltk.word_tokenize(file_text))
+            # Get sentences
+            sentences = script_2.get_sentencias(file_text)
             
-            # Stopwords detection
-            stop = nltk.corpus.stopwords.words("english") 
-            filtered = [token.lower() for token in tokens if token not in stop]
-            
-            # Generate processed text
-            text = nltk.Text(filtered)
-            
-            # Remove possible punctuation marks
-            puncts = ".,?!:;{}[]()<>$'"
-            for sym in puncts:
-                text  = [item for item in text if item != sym]
+            unigrams = list()
+            # Get unigrams based on tokens
+            for sentence in sentences:
+                unigrams.extend(script_2.get_tokens(sentence))
             
             # Get bigrams
-            b = nltk.bigrams(text)
+            bigrams = [item[0] + " " + item[1] for item in nltk.bigrams(unigrams)]
+            
+            t = unigrams + bigrams
             
             # Find matches and add them to the inverted index
-            for match in (set(collocations) & set(b)):
-                value = match[0] + " " + match[1]
+            for match in (set(collocations) & set(t)):
+                value = match
                 if value in inverted_index:
                     inverted_index[value].append(file)
                 else:
@@ -40,14 +36,14 @@ def create_inverted_index(collocations):
     
     return inverted_index
     
-def script_4(bigrams):
+def script_4(vocab):
 
     # Get the inverted index
-    inverted_index = create_inverted_index(bigrams)
+    inverted_index = create_inverted_index(vocab)
     
     # Write to file
     i = open("inverted.txt","w")
-    for k,v in inverted_index.items():
+    for k,v in sorted(inverted_index.items(),key=lambda tuple: tuple[0]):
         i.write("'" + k + "' : [")
         for item in v:
             i.write("'" + item + "' ")

@@ -1,6 +1,7 @@
 ﻿import os
 import nltk
 from pprint import pprint as pp
+import script_2
 import script_4
 
 def get_processed_text():
@@ -103,6 +104,6 @@ def script_1():
     
     print("$ {0} Collocations founded, saved in vocab.txt".format(len(bigrams)))
     
-    script_4.script_4(bigrams)
+    script_4.script_4(vocab)
 
 script_1()

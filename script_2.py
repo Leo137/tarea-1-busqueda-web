@@ -96,5 +96,3 @@ def script_2():
 				corrupted += 1
 
 	print("$ {0} Abstracts processed. {1} corrupted.".format(processed, corrupted))
-
-script_2()
