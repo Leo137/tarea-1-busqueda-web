@@ -37,13 +37,13 @@ def test():
 			if len(text_data) == 3:
 				# Get sentences
 				sentences = get_sentencias(text_data[2])
-				print sentences
+				print(sentences)
 
 				# Count books
 				processed += 1
 			else:
 				corrupted += 1
 
-	print "$ {0} Abstracts processed. {1} corrupted.".format(processed, corrupted)
+	print("$ {0} Abstracts processed. {1} corrupted.".format(processed, corrupted))
 
 test()
