@@ -170,6 +170,6 @@ for k,v in sorted(inverted_index_text.items(),key=lambda tuple: tuple[0]):
     i.write("]\n")
 i.close()
 
-print("$ {0} keys founded, saved inverted index to inverted_title.txt".format(len(inverted_index_title)))
-print("$ {0} keys founded, saved inverted index to inverted_text.txt".format(len(inverted_index_text)))
-print("$ {0} Vocabulary items founded, saved in vocabulary.txt".format(len(vocabulary)))
+print("$ {0} keys found, Inverted index saved > inverted_title.txt".format(len(inverted_index_title)))
+print("$ {0} keys found, Inverted index saved > inverted_text.txt".format(len(inverted_index_text)))
+print("$ {0} Vocabulary items found, saved > vocabulary.txt".format(len(vocabulary)))
